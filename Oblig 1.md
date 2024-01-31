@@ -62,7 +62,7 @@ De kan vaere imot offentlig transport siden det kan redusere salget av taxi tjen
 
 Oppgave 1c)
 
-TODO: Tegn med draw io
+Se bildet
 
 Oppgave 1d)
 
