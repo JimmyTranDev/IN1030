@@ -51,7 +51,15 @@ De onsker at boligen deres har mest verdi. Det a ha transport naerme gjor det. M
 Ikke digitaliserte:
 Kanskje de vil ha bedre informasjon og alternativer for a planlegge reiser. De kan fole utelatt nar mer og mer av dette blir flyttet over til digitale systemer. 
 
-TODO: Tegn
+Private firmaer og Vy:
+Private firmaer kan hjelpe Vy med ting som de ikke er sa gode selv som kan resulter i profitt for firmaene, lavere kostnader og bedre resultater for Vy
+
+Utviklere og private firmaer:
+Private firmaer kan lever ting som er av lav kvalitet a gjor ting vanskeligere for utivklere
+
+Oppgave 1c)
+
+TODO: Tegn med draw io
 
 Oppgave 1d)
 
@@ -65,24 +73,46 @@ De vil fjremme miljovennlige transportalternativer og redusere utslippene. De vi
 Reisende + turister:
 De vil ha en palitelig app for a planlegge reisene sine. A komme sent til ett sted/jobb etc pagrunn av darlig informasjon de far fra vy sine system er noe som vil redusere deres tilfredstilhet mye. Siden dette er ett hovedsegment sa ma Vy jobbe my med disse
 
-
 Konflikter og motsetninger:
 Private selskaper vs miljoorganisasjoner og sykkel og fotgjengergrupper:
+Dett er fordi at de vil maksimere profitt og mer miljovennlighet kan oke deres kostnader.
+
+Beboere vs staten og kommunene:
+Beboere onsker ikke stoy eller ekspropriasjon av eiendom. Dette kan skape konflikter mellom beboere og staten/kommunen.
+
+Ikke digitaliserte vs utviklere og vy:
+Ikke digitaliserte foretrekker tradisjonell informasjon og kan fole seg utelatt nar mer av det som de bruker blir digitalt.
+
+Beskrivelse:
+
+De forskjelle interessentene har forskjellige behov og prioriteringer. Dette kan skape konflikter mellom interessentene. Totalt sett sa er det noe som a gjor Vy bedre eller verre avhengig av prioriteringen av disse ulike interessene. Systemene kan vaere forbedret pa noen steder og verre pa andre. For eksempel en popup om mer miljovennlige transport vaere bra for miljo gruppene men darligere for de reisende siden det vil redusere ux/ui. Vy ma veie mellom disse interessentene som vil ha stor virking pa kvaliteten og kompleksiten av systeme som Vy lage og opprettholde. Regulatoriske krav derimot ma gjores og dett kan kreve mer arbeid og problemer som ma loses.
+
+Oppgave 1e)
+
+Is it better to use paper or digital systems for rich pictures? Paper based i quick to make but would make it more troublesome to change. 
+
+Shouldn't rich pictures be something that everyone can access and edit with a versioning system? Developers work in a team and not individually
+
+
+Oppgave 2a)
+10
+For 
+Mennesker endrer seg gjennom livet. En vil vaere veldig forskjellige nar de er yngre og nar de er eldre. Vi laerer hele tiden. Med med informasjon og erfaring endrer vi var forstaelse av verden, vare ferdigheter endres og vare tanker og meninger endres.
+
+Hvis man ser tilbake til da man var yngre sa kan man godt huske at man gjorde mange dumme ting. Dette er relatert til endring. 
+
+Vi endrer var omgivelse og omgivelsen endrer oss. Ny teknolog etc. kan fore til drastiske endring som resulterer i at vi som personer og mennesker endres.
+
+Du vil vaere en annen person om 10 ar. Du vil vaere en annen person etter universitetet.
+
+Imot
+Det er ogsa slik at vi mennesker er ett resultat av evolusjon. Selv med alle disse teknologiene sa har vi fortsatt den sammen hjernen som vi hadde for hundred tusern av ar siden. Vi er fortsatt motivert av fundemntale instinkter og systemer. Forskjellen er at vi mennesker har en hjerne som lar seg laere, samarbeide og bidra til den kollektive knnskapsbasen. Selv med teknologi sa samme som vi var for. Bare med teknologi. Ett menneske som ikke har teknologi vil fortsatt utvikle seg som de var.
 
 
 
-Private selskaper og tjenesteleverandører ønsker å minimere kostnadene og maksimere profitten, mens miljøorganisasjoner og sykkel- og fotgjengergrupper fokuserer på miljøvennlige alternativer som kan være mer kostnadskrevende. Dette kan føre til en konflikt mellom profittmotiver og miljømål.
+Oppgave 2b)
 
-Beboere som ønsker å beholde boligverdien sin kan motsette seg utvidelsen av offentlig transportinfrastruktur, spesielt hvis det innebærer ekspropriasjon av eiendom eller støyforurensning. Dette kan skape konflikter mellom beboere og staten/kommunen.
+Vi mennesker er late. Vi onsker alltid den beste kombinasjon av hastighet, kvalitet, tid, innsats og pris.
 
-Ikke-digitaliserte personer som foretrekker tradisjonell informasjon og planlegging kan føle seg utelatt når det skjer en overgang til digitale systemer. Dette kan føre til misnøye og motstand mot digitaliseringen av transporttjenester.
 
-Effekter på systemutviklingsprosessen og bruk av systemet:
 
-Systemutviklingsprosessen kan påvirkes av disse konfliktene ved å måtte balansere ulike interessenters krav og prioriteringer. Dette kan føre til kompromisser i systemutformingen og funksjonaliteten.
-
-Bruken av systemet kan også bli påvirket, da konflikter mellom interessentene kan føre til ulike opplevelser for brukerne. For eksempel kan manglende fokus på miljøvennlige alternativer påvirke miljøorganisasjoners oppfatning av systemet, mens beboere kan være misfornøyde hvis deres interesser ikke blir tatt hensyn til.
-
-Det kan være nødvendig å implementere funksjonaliteter som lar brukerne tilpasse systemet etter deres preferanser for å håndtere noen av disse konfliktene. Dette kan inkludere alternativer for miljøvennlige transportalternativer, tilgang til tradisjonell informasjon for ikke-digitaliserte brukere, og å ivareta beboernes bekymringer.
-
-Systemutviklere må også ta hensyn til regulatoriske krav og samarbeide tett med offentlige organer for å sikre at systemet følger lover og reguleringer og oppfyller kravene til tilrettelegging for de med nedsatt evne. Dette kan være en utfordrende oppgave i systemutviklingsprosessen.
