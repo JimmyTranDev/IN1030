@@ -15,7 +15,7 @@
 2. Kjope manedskort. Finne reise fra Oslo s til Lysaker. Endre sprak fra norsk til engelsk. Finne en taxi fra oslo s til Lysaker. Finne support knappen
 3. Hun/Han er en del av malgruppen som er de som reise me vy.
 4. Vi jobber sammen for a utvikle digital losninger for kunder. Denne personen vil vaere mye mere teknisk kompetent enn vanlig. De vil sannsynligvis forsta modene bruker grensesnitt godt og vil komme fram veldig raskt.
-5. Vil sannsynligvis bare skrive ned observasjonene som jeg ser og diskusjon og svar
+5. Vil sannsynligvis bare skrive ned observasjonene som jeg ser med diskusjon og svar
 
 ##### b) Elektronisk behandling av personopplysninger blir regulert i Personopplysningsloven. Forklar hvorfor vi har samtykkeskjema ved undersøkelser av bruk.
 
@@ -24,7 +24,7 @@ behandling og lagring av personopplysninger. A behandle identifiserbart personli
 
 ##### c) Utform et samtykkeskjema tilpasset din undersøkelse som du legger ved besvarelsen din.Obs: inkluder samtykkeskjema uten navn/underskrift fra deltaker i PDF-filen du leverer.
 
-### Lysaker / 13.02.2029
+### Lysaker / 14.02.2029
 
 # Vil du delta i brukerundersøkelsen «Vy is shit»?
 
@@ -51,10 +51,11 @@ Alle [spesifiser datatype] blir slettet senest 03.06.2024. Dette gjelder også a
 
 Rettigheter
 Vi behandler opplysninger om deg basert på ditt samtykke. Så lenge du kan identifiseres i datamaterialet, har du rett til:
-• innsyn i hvilke personopplysninger som er registrert om deg, og å få utlevert en kopi av opplysningene,
-• å få rettet personopplysninger om deg,
-• å få slettet personopplysninger om deg, og
-• å sende klage til Datatilsynet om behandlingen av dine personopplysninger.
+
+- innsyn i hvilke personopplysninger som er registrert om deg, og å få utlevert en kopi av opplysningene,
+- å få rettet personopplysninger om deg,
+- å få slettet personopplysninger om deg, og
+- å sende klage til Datatilsynet om behandlingen av dine personopplysninger.
 
 Hvis du har spørsmål til undersøkelsen, eller ønsker å benytte deg av dine rettigheter, ta kontakt med Jimmy Tran eller min universitetsansatte fagkontakt Aki Axel Caspersen på e-post akiac@uio.no.
 
@@ -127,9 +128,17 @@ Det som fores inn i tabellen er brukeren og maskinene. Handlinger som bruker gjo
 
 ## Oppgave 3 - Øvelse: Oppmerksomhet og distraksjon
 
-### Les notatet «Oppmerksomhet og distraksjon».
+##### a) Lea notatet «Oppmerksomhet og distraksjon». I denne øvelsen er det du som er brukeren. Forsøk å ikke bruke sosiale medier/skru av nettet og telefonen en kveld (fra kl. 18:00-22:00).Skriv minst tre ulike poenger/refleksjoner over hva du erfarte. Bruk erfaringene du gjorde deg her, samt erfaringer du har fra tidligere, til å kommentere og problematisere din forståelse av vår tids “tilgjengelighetskultur”.
 
-##### I denne øvelsen er det du som er brukeren. Forsøk å ikke bruke sosiale medier/skru av nettet og telefonen en kveld (fra kl. 18:00-22:00).Skriv minst tre ulike poenger/refleksjoner over hva du erfarte. Bruk erfaringene du gjorde deg her, samt erfaringer du har fra tidligere, til å kommentere og problematisere din forståelse av vår tids “tilgjengelighetskultur”.
+For meg sa mesterer jeg sosiale medier. Jeg pleiere ikke a ha mobile oppe nar jeg jobber.
+
+Min erfaring er at a alltid ha mobilen oppen forere til distraskjoner med notifikasjonene. Man ma da sjekke og mister fokuset til oppgaven man gjor. Det koster tid a komme tilbake igjen og reduserer min effektivitet.
+
+Hvis jeg skrur av sosiale medier fra 18:00 til 22:00 sa er det slik at jeg foler det sosiale presset av a ikke svare pa meldinger. Det er en forventing at du svarer pa kort tid eller sa tror folk at du ignorerer dem eller at verdsetter vennskapet.
+
+Hvis jeg bare apner sosiale medier i visse tider der effektivitet ikke er nodvendig eller der jeg tar pause sa gar det fint. Det er ogsa ok a dippe ut av samtaler og komme tilbake igjen senere.
+
+Tilgjengelighetskultur er bra i moderasjon, mens for mye og for lite kan fore til negative effekter. Akkurat som medisiner
 
 ## Oppgave 4 - Spørsmål til pensum
 
@@ -137,4 +146,6 @@ Det som fores inn i tabellen er brukeren og maskinene. Handlinger som bruker gjo
 
 ##### b) Les artikkelen: «How Can I Help You? A chatbot’s answers to citizens’ information needs» som ligger i Leganto. Skriv av en setning eller to fra denne artikkelen, skriv en egen setning,og lag en referanse til artikkelen.
 
-##### Oppgave 5 - Refleksjon: Skriv noen setninger om hva du har lært gjennom å jobbe med denne obligen. Hva likte du? Var det noe som var tankevekkende, engasjerende?
+## Oppgave 5 - Refleksjon:
+
+##### a) Skriv noen setninger om hva du har lært gjennom å jobbe med denne obligen. Hva likte du? Var det noe som var tankevekkende, engasjerende?
