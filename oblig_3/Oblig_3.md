@@ -79,3 +79,24 @@ Oppgave 2d)
 Det kan utlevers til universitet i Oslo, retter og meg selv.
 
 Oppgave 3a)
+Dilemmaet er at hvis en selv kjorende bil er satt i ett dilemma om a velge hvem som skal do, hvordan skal den velge? Det er algoroitmer, treningsdata og treningsmetode som velger hvordan den skal handtere det. Men dette er bestemt av utviklerer, firmaer etc langt for i tid nar de lager denne aien.
+
+Det er to hovedsynspunker:
+
+1. Minimere skade
+2. randomisere/ikke gjore noe
+
+Det som jeg ville ha gjort er a prove a minimere skaden sa mye som mulig. Det burde vaere studier for a finne best mulig aksjon for forskjellige situasjoner. Vi kan lage simulasjoner og testing og sant for a finne best mulig alternativ og dermed minimere skade og oke sjansen for bedre caser
+
+Det er det samme som medisin. Vi kan ha flere muligheter gitt forskjellige situasjoner der forskjellige ting har ulike prosenter. Vi ma alltid prove var beste for at pasient og samfunnet som en helhet.
+
+Gjennom tester, prove feiler og sant sa kan vi komme ganske naer mal. Komme i en situasjon hvor en selv kjorende bil har bedre outcomes enn ett menneske i ulike situasjon.
+
+Det er det samme som a gi en pistol til en maskin og fortelle den at den skal skyte 1cm over hodet mitt. Jeg stoler mer pa maskinen enn en person. Maskiner kan gjore ting mye raskere og mer presist en oss og vi kan teste det. Det er bedre a ha ett system som alle bruker, som er true and tested enn a gi til tilfeldige folk som hare veldig store variasjon og erfaringer.
+
+Det vil ikke vaere helt perfekt, men vi ma prove a komme best case som mulig.
+
+Oppgave 3b)
+Det betyr a se pa egen utvikling, diskutere a ta kritikk i sin egen posisjon fra utsiden objektivt.
+
+Oppgave 3c)
