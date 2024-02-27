@@ -43,3 +43,39 @@ Universell utforming - lage grensesnitt som er inklusiv for funksjonsnedsatte
 Inkludering - Ta hensyn til alle og deres omstendigheter at man kan oppa ting pa lik linje som mulig
 Tilgjengelighet - Hvor lett det er a fa tilgang til noe
 GAP modellen - en modell for misforhold mellom personers funksjon og krav for samfunnsdeltakelse
+
+Oppgave 2a)
+
+Problemstillingen er hvor mye personligdata som vi har online og om at dette kan bli misbrukt.
+
+Man kan finne veldig mye om en person ved a studere dem og deres liv online fra alt som de gjor til alt som de liker. Ved bruk av denne dataen sa kan man finne deres venner, familie og sant for a finne enda mer informasjon.
+
+Alt denne informasjonen kan brukes til vise reklame siden man vet hva denne personen er interessert i, hvilken malgruppe de tilhorerer og hva de liker.
+
+Det kan ogsa brukes for a innflyte denne personen til a gjore det man vil eller pavirke valg etc.
+
+Dette er veldig relvant siden betydningen av teknologi er mye storre na en for og det vil fortsette a bli storre.
+
+Vi gjor mange ting som vi matte vaere fysisk, ha interaksjon med folk for a fa ny informasjon om denne personen og deres naere. Dette er veldig manuelt og kostlig hvis man samlet in informasjon for denne mate. Denne personen vil heller ikke dele alt om seg selv til en fremmed.
+
+Na med internett og sosiale medier sa er alt rett der online.
+
+Hvordan vil du hacke en firmas webside? Du gar inn i linkedin, finner en person som har hoy priveleger og gjor research pa han. Etterpa sa kan du lett sende en email fra en eller annen medarbider som ser veldig virkelig ut og far han til a installere en skadevare. Poof, da har du hacket inn i ett firma.
+
+Informasjon har en verdi pa godt og pa vondt avhengig av hvordan man bruker det. Sa ja det er veldig relvant na
+
+Oppgave 2b)
+
+Det viktig a informere siden person som vet at det er opptak vil handle forskjellig fra en person som ikke vet. De kan dele personlig informasjon som de ikke onsker a bli delt online etc. Dette er informasjon som kan identifisere denne personene med dette. Man kan f.eks vite at denne person var her den dagen etc.
+
+Oppgave 2c)
+jf. personvernforordningen artiekel 44 er det ikke lovlig a overfore personligdata til tredjestat eller internasjonal organisasjon uten visse grunner som er beskrevet lengre ned.
+
+All overføring av personopplysninger ut av EØS krever et særskilt grunnlag for å være lovlig
+
+Det finnes flere overforingsgrunnlag jf. personvernforordningen artikkel 46 2. men totalt sett sa ma man ha en overforingsmekanismene for a palegge dataimportoren en rekke plikter for å sikre at europeeres personopplysninger blir like godt beskyttet etter overforselen til tredjeland som de blir i EOS
+
+Oppgave 2d)
+Det kan utlevers til universitet i Oslo, retter og meg selv.
+
+Oppgave 3a)
