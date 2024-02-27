@@ -14,7 +14,7 @@
 1. Jeg forventer a finne ut om hvordan brukeren bruker Vy appen. Finne ut hvor brukervennlig det er og hvor lett det er a finne fram. Se hvordan en annen person bruker Vy appen forskjellig fra meg.
 2. Kjope manedskort. Finne reise fra Oslo s til Lysaker. Endre sprak fra norsk til engelsk. Finne en taxi fra oslo s til Lysaker. Finne support knappen
 3. Hun/Han er en del av malgruppen som er de som reise me vy.
-4. Vi jobber sammen for a utvikle digital losninger for kunder. Denne personen vil vaere mye mere teknisk kompetent enn vanlig. De vil sannsynligvis forsta modene bruker grensesnitt godt og vil komme fram veldig raskt.
+4. Denne personen er moren min og hun har aldri brukt vy appen for. Det kan vaere slik at hun vil prove a ikke dumme seg ut siden vi hun kjenner meg sa hun vil ga gjennom det sa raskt og bruke sa mye tankekraft som mulig
 5. Vil sannsynligvis bare skrive ned observasjonene som jeg ser med diskusjon og svar
 
 ##### b) Elektronisk behandling av personopplysninger blir regulert i Personopplysningsloven. Forklar hvorfor vi har samtykkeskjema ved undersøkelser av bruk.
@@ -26,7 +26,7 @@ behandling og lagring av personopplysninger. A behandle identifiserbart personli
 
 ### Lysaker / 14.02.2029
 
-# Vil du delta i brukerundersøkelsen «Vy is shit»?
+# Vil du delta i brukerundersøkelsen «Brukervennlighet av vy appen»?
 
 Jeg er en student i emnet IN1030 – System, krav og konsekvenser ved Institutt for informatikk ved Universitetet i Oslo. Med dette skrivet ønsker jeg å informere hva prosjektet mitt har som formål, spørre deg om du vil delta i prosjektet, samt berette hva deltagelse vil innebære for deg.
 
@@ -95,6 +95,55 @@ Fant ut at hvis du endrer sprak sa blir du sendt home siden istedenfor search an
 
 ##### e) Gjennomfør hovedundersøkelsen (observasjonen). Rapporter kort fra undersøkelsen, hvilke erfaringer og innsikter fikk du? Husk å ta et ikke identifiserbart bilde for å dokumentere gennomførelsen. Legg til det avidentifiserte/sensurerte bildet i PDF-filen du leverer.
 
+###### Kjope manedskort
+
+1. Sa periodebilette med en gang og klikket den
+2. Fikk valg om tog, buss og ruter og klikket tog med en gang
+3. Valgte Oslo s til skoyen
+4. Voksen var allerede valgt og trakk fortsett
+5. Sa kom fram til betalingsiden
+
+###### Finne tog
+
+1. Klikket med sokefelte og tastet inn oslo s
+2. Sa tastet inn Lysaker
+3. Fant fram toget med en gang
+
+###### Endre sprak til engelsk
+
+1. Letet etter menyen en liten stund
+2. Fant menyen og trakk den
+3. Letet etter instillnger og fant den
+4. Klikket instillinger
+5. Klikket pa region istedenfor sprak
+6. Forsto da de var bare norge og sverigge
+7. Gikk tilbake Fant sprak og klikket den
+8. Sa gikk klikket engelsk
+9. Ble sendt til home, men klikket search and buy med en gang
+
+###### Bestille taxi fra Oslo s til Lysaker
+
+1. Fant taxi knappen med en gang
+2. Klikket den
+3. Bevegde fingeren fram og tilbake mellom na og senere
+4. Klikket na
+5. Fylte inn lysaker stasjon siden adressen var allerede fatt fra location
+6. Hent tilbud
+
+###### Finne hvor man kan klage pa kontroll gebyer
+
+1. Trakk meny kanppen med en gang
+2. Letet en liten stund, fant hjelp knappen
+3. Letet etter kontroll gebyr knappen for en stund.
+4. Leter fra top nedover
+5. Fant kappen og trakk den
+
+Fant ut sprak og region knappen er veldig naerme vaerandre og kan fore til misklikk.
+Det er litt mange ting i menyen sa det tar litt tid a finne fram. Men man ved med en gang det er en meny og klikker den for andre ting
+Taxi knappen var veldig lett a finne med ikonet
+Pa support siden er det ogsa godt med ikoner og tekst slik at man finner fram raskt.
+Det var litt darlig brukeropplevelse med at hvis man endret sprak fra norsk til engelske, sa ble man sendt til hjem istedenfor siden som man forlot fra
+
 ## Oppgave 2 - Analyse: Sekvens av handlinger
 
 ##### a) Les gennom notatet «Sekvens av handlinger mellom menneske og maskin». Forklar hva formålet med tabellen er, og hva som skal føres inn i de ulike kolonnene. Bruk gjerne eksempler.
@@ -124,7 +173,43 @@ Det som fores inn i tabellen er brukeren og maskinene. Handlinger som bruker gjo
 
 ##### b) Bruk observasjoner du gjorde i oppgave 1. Velg én eller flere av oppgavene du ba deltakeren om å utføre, og beskriv sekvensen(e) ved hjelp av tabellen fra Sekvens av handlinger mellom menneske og maskin.
 
+<table>
+  <tr>
+    <td colspan="2">Brukere</td>
+    <td colspan="2">Maskinene</td>
+  </tr>
+  <tr>
+    <td>handling ikke synlig for maskin</td>
+    <td>handling synlig for maskin</td>
+    <td>effekt synlig for bruker</td>
+    <td>design rasjonale</td>
+  </tr>
+
+  <tr>
+    <td>Letet etter meny knappen<td>
+    <td>Hoyre klikk meny knappen</td>
+    <td>Apner meny</td>
+    <td>Hvis man trykker en meny sa burde ett meny apnes</td>
+  </tr>
+
+<tr>
+    <td>Letet etter hjelp meny item<td>
+    <td>Klikket help meny item</td>
+    <td>Apner hjelp siden</td>
+    <td>Hvis man trykker hjelp knappen sa apner man hjelp siden. Knappen har ikon or tekst for lettere a finne</td>
+</tr>
+
+  <tr>
+    <td>Letet etter kontroll gebyr knappen fra top til bunn.</td>
+    <td>Trakk kontroll gebyr knappen</td>
+    <td>Apner en link til info for kontroll gebyr i browser</td>
+    <td>Trenger bare a holde informasjonen pa ett sted istedenfor to, dette gjor endringer lettere</td>
+  </tr>
+</table>
+
 ##### c) Analyser tabellen du fylte ut i oppgave 2b. Hvordan oppfatter du interaksjonen mellom bruker og system? På hvilke måter kan interaksjonen forbedres eller bli gjort annerledes?
+
+Jeg oppfatter det som veldig lett a bruke for brukeren. Systemet gjor ting som brukeren forventer. Ting er ogsa plassert hvor kunden foventer og lett finne fram. Ikonene gjor det ogsa letta forsta. Det som kan forbedres er a ogsa ha informasjon om kontrol gebyr i appen ogsa uten a apne nettleseren til brukeren. Dette kan gjores via webviews for eksempel.
 
 ## Oppgave 3 - Øvelse: Oppmerksomhet og distraksjon
 
@@ -144,8 +229,24 @@ Tilgjengelighetskultur er bra i moderasjon, mens for mye og for lite kan fore ti
 
 ##### a) Les notatet: Målinger, nøyaktighet og representasjoner som ligger i pensum, og skriv to spørsmål til denne. Det kan være noe du lurer på, er usikker på, eller gjerne ønsker å vite mer om.
 
+Nar noe blir til ett mal, sa mister det sitt verdi. For eksempel hvis inntekten i ett firma er ett mal sa vil det fore til at man tar kortsiktige valg for oke denne inntekten for fremtidig inntekt. Hva er en mer optimal mate a vurdere om noen gjor en god jobb?
+
+Siden vurdering av eksamen har en subjektiv og objectiv komponent. Hva slags innvirking vil AI ha pa det siden det er en lett og rask mate a vurdere pa? AI er bare modeller trent pa masse data. Disse dataene er lagd av oss mennesker som er subjektive.
+
 ##### b) Les artikkelen: «How Can I Help You? A chatbot’s answers to citizens’ information needs» som ligger i Leganto. Skriv av en setning eller to fra denne artikkelen, skriv en egen setning,og lag en referanse til artikkelen.
+
+The ML-based analysis of the citizen’s input can lead to misinterpretations, as the layers and steps of the analysis are hidden from the citizen (Verne et al. (2022) How Can I Help You? A chatbot’s answers to citizens’ information needs). This is because ai/ml systems just predict words after each other based on a certain input and random seeds.
 
 ## Oppgave 5 - Refleksjon:
 
 ##### a) Skriv noen setninger om hva du har lært gjennom å jobbe med denne obligen. Hva likte du? Var det noe som var tankevekkende, engasjerende?
+
+Har laert mer om hvordan man driver brukerundersokelse. Det som man tror er vil vaere riktig eller bruker vennlig vil ikke alltid vaere og man kan oppdage det via tester. Det er mye a laere gjennom undersokelsene siden folk med helt andre kontekster og bakrgrunn kan a forskjellige interaksjoner med samme teknologi enn deg. Man finner ogsa problemer my klarer gjennom bruker undersokelser. Det blir pa en mate som pair programming. En annen person vil finne problemer med det som du har laget letter enn deg self. I undersokelsen visste jeg ikke at men ble sent til hjemme siden hvis man endrer sprak. Eller om at support apner linker i nettleseren siden jeg bruker websiden mer enn appen.
+
+Har ogsa leart markdown bedre etter a matte levere pdf XD
+
+Det var veldig kult med den tabellen for hva bruker og maskin og design rasjonale.
+
+Fant ut at Vy appen ever veldig brukervennlig.
+
+Har laert hvordan man siteter ting
